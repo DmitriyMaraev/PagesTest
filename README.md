@@ -1,4 +1,5 @@
 # Info
 
 My name Dmitriy Maraev
-![Logo](C:\Users\user\Desktop\PagesTest\Logo.jpg)
+My logo
+![Logo](Logo.png)
